@@ -28,11 +28,13 @@ If you think there is no errors, remove folder C:\AYE\ and restart injector, the
  Example: if you have cheats named Aimware, Nixware and Skeet, write `cheatlist=Aimware|Nixware|Skeet|Load DLL`
  9. Place a new string (important!)
  10. Find out your repository name. It is positioned as in screenshot.
+ 
  ![](https://i.imgur.com/KH6sKqa.png)
  
- 11. Now, if you want to use your repository, you need to replace `clangremlini/ayeloader-dll-repo` with your repository name.
+ 12. Now, if you want to use your repository, you need to replace `clangremlini/ayeloader-dll-repo` with your repository name.
 
 Example of `cheats.ini` file:
+
   ![](https://i.imgur.com/RSJBiOG.png)
 
 
